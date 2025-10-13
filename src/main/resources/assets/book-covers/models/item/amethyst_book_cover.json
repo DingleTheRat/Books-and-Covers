@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "book-covers:item/book_cover",
+    "layer1": "book-covers:item/book_cover_outline"
+  }
+}

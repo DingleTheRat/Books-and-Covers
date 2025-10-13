@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": "minecraft:leather"
+  },
+  "pattern": [
+    "   ",
+    "LL ",
+    "LL "
+  ],
+  "result": {
+    "count": 1,
+    "id": "book-covers:book_cover"
+  }
+}

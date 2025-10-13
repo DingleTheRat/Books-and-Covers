@@ -1,0 +1,16 @@
+{
+  "values": [
+    "book-covers:book_cover",
+    "book-covers:amethyst_book_cover",
+    "book-covers:copper_book_cover",
+    "book-covers:diamond_book_cover",
+    "book-covers:emerald_book_cover",
+    "book-covers:gold_book_cover",
+    "book-covers:iron_book_cover",
+    "book-covers:lapis_book_cover",
+    "book-covers:quartz_book_cover",
+    "book-covers:netherite_book_cover",
+    "book-covers:redstone_book_cover",
+    "book-covers:resin_book_cover"
+  ]
+}

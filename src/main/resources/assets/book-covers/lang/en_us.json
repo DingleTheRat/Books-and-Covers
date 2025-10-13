@@ -1,0 +1,16 @@
+{
+  "itemgroup.book-covers.books_covers": "Books & Covers",
+
+  "item.book-covers.book_cover": "Book Cover",
+  "item.book-covers.amethyst_book_cover": "Amethyst Book Cover",
+  "item.book-covers.copper_book_cover": "Copper Book Cover",
+  "item.book-covers.diamond_book_cover": "Diamond Book Cover",
+  "item.book-covers.emerald_book_cover": "Emerald Book Cover",
+  "item.book-covers.gold_book_cover": "Gold Book Cover",
+  "item.book-covers.iron_book_cover": "Iron Book Cover",
+  "item.book-covers.lapis_book_cover": "Quartz Book Cover",
+  "item.book-covers.quartz_book_cover": "Quartz Book Cover",
+  "item.book-covers.netherite_book_cover": "Netherite Book Cover",
+  "item.book-covers.redstone_book_cover": "Redstone Book Cover",
+  "item.book-covers.resin_book_cover": "Resin Book Cover"
+}
