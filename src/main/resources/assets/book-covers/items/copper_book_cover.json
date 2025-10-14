@@ -1,8 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "book-covers:item/amethyst_book_cover",
-    "texture": "book-covers:item/amethyst_book_cover",
+    "model": "book-covers:item/book_cover_template",
     "tints": [
       {
         "type": "minecraft:constant",
@@ -10,7 +9,7 @@
       },
       {
         "type": "minecraft:constant",
-        "value": 10181830
+        "value": 14910060
       }
     ]
   }
