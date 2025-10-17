@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 public class CoverGroup {
     public static final ItemGroup COVER_GROUP = Registry.register(Registries.ITEM_GROUP,
             Identifier.of(BookCovers.MOD_ID, "books_covers"),
-            FabricItemGroup.builder().icon(() -> new ItemStack(CoverItems.AMETHYST_COVER))
+            FabricItemGroup.builder().icon(() -> new ItemStack(CoverItems.COVER))
                     .displayName(Text.translatable("itemgroup.book-covers.books_covers"))
                     .entries((displayContext, entries) -> {
                         entries.add(CoverItems.COVER);

@@ -1,10 +1,7 @@
 package net.dingletherat.covers.item;
 
 import net.dingletherat.covers.BookCovers;
-import net.fabricmc.fabric.api.client.rendering.v1.ColorProviderRegistry;
-import net.minecraft.client.data.ModelProvider;
 import net.minecraft.item.Item;
-import net.minecraft.predicate.item.TrimPredicate;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.registry.RegistryKey;
@@ -17,6 +14,7 @@ import java.util.function.Function;
 public class CoverItems {
     public static final TagKey<Item> COVER_TAG = TagKey.of(RegistryKeys.ITEM, Identifier.of(BookCovers.MOD_ID, "covers"));
 
+    // Covers
     public static final Item COVER = registerItem("book_cover", Item::new);
     public static final Item AMETHYST_COVER = registerItem("amethyst_book_cover", Item::new);
     public static final Item COPPER_COVER = registerItem("copper_book_cover", Item::new);
